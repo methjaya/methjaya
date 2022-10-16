@@ -80,6 +80,7 @@
             <br>
 <h2/>
 
+            
 [![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
  <!--
 [![Sahansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=methjaya)](https://github.com/methjaya/github-readme-stats)
@@ -87,3 +88,65 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methjaya)](https://github.com/methjaya/github-readme-stats)
 
 -->
+<h2 aling="left">
+            Trophies            
+<h2/><h6>click on Badges for Verification</h6>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-regression-models.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-regression-models.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-analyze-data-with-python.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/explore-and-analyze-data-with-python.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-classification-models.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-classification-models.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-cluster-models.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-clustering-models.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-deep-learn-models.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-deep-learning-models.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.use-automated-machine-learning.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/use-automated-machine-learning.svg" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-regression-model-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/create-regression-model-azure-machine-learning-designer.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-classification-model-with-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/create-classification-model-azure-machine-learning-designer.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-classification-model-with-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/create-classification-model-azure-machine-learning-designer.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-clustering-model-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/create-clustering-model-azure-machine-learning-designer.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-clustering-model-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/create-clustering-model-azure-machine-learning-designer.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.intro-to-azure-machine-learning-service.badge?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge.svg" />
+</a>
+
+
+<h2 aling="left">
+            Trophies            
+<h2/><h6>click on Trophies for Verification</h6>
+                       
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-machine-learn-models.trophy?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/create-machine-learning-models.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-no-code-predictive-models-with-azure-machine-learning.trophy?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/create-no-code-predictive-models-with-azure-machine-learning.svg" />
+</a>
+
+
+
+
+
+
+
+
+
+
