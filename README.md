@@ -78,7 +78,16 @@
 </a>
 
 <br><br><br><br><br><br><br><br>
- <h2 aling="left">
+ 
+
+<h2> My Acheivements </h2>
+            
+[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
+
+
+
+
+<h2 aling="left">
  My Skills       
 <h2/>          
        
@@ -90,20 +99,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-yellow?style=flat-square&logo=css)
 ![Figma](https://img.shields.io/badge/-FIGMA-blueviolet?style=flat-square&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=Photoshop)
-
-<h2> My Acheivements </h2>
-            
-[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
- <!--
-[![Sahansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=methjaya)](https://github.com/methjaya/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methjaya)](https://github.com/methjaya/github-readme-stats)
-
--->
-
-
-
-
 
 
 
