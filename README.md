@@ -77,27 +77,11 @@
 <img src="https://learn.microsoft.com/learn/achievements/create-no-code-predictive-models-with-azure-machine-learning.svg"width=55px align="right />
 </a>
 
-<br><br>           
-             
-
-                       
-<br>
+<br><br>
  <h2 aling="left">
-           My Skills       
-<h2/           
-            
-  
-
-            
-
-<!--- 
-![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
---->
+ My Skills       
+<h2/>          
+       
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
