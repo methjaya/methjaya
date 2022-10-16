@@ -77,7 +77,7 @@
 <img src="https://learn.microsoft.com/learn/achievements/create-no-code-predictive-models-with-azure-machine-learning.svg"width=55px align="right />
 </a>
 
-<br><br>
+<br><br><br><br><br><br><br><br>
  <h2 aling="left">
  My Skills       
 <h2/>          
