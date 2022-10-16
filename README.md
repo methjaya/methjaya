@@ -80,10 +80,6 @@
 <br><br><br><br><br><br><br><br>
  
 
-<h2> My Acheivements </h2>
-<br><br><br><br><br><br><br><br>           
-[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
-
 
 
 
@@ -101,5 +97,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=Photoshop)
 
 
+
+<h2> My Acheivements </h2>
+<br><br><br><br><br><br><br><br>           
+[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
 
 
