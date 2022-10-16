@@ -21,11 +21,37 @@
 </a>
 <div/>                    
 <hr>
+<!-- <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruroot&layout=compact&exclude_repo=PingMeRN"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=lahiruroot&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p> -->
+                       
+### My Skills : <br/>
+            
+            
+  
 
-<h2 aling="left">
- My Skills       
-<h2/>          
-       
+            
+
+<!--- 
+![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+--->
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
@@ -35,18 +61,8 @@
 ![Figma](https://img.shields.io/badge/-FIGMA-blueviolet?style=flat-square&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=Photoshop)
 
-
-
-<h2> My Acheivements </h2>
-<br><br><br><br><br><br><br><br>           
-[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
-
-
-
-            
-
 <h2 aling="left">
-            My Badges & Trophies         
+            My Badges          
 <h2/><h6>click on Badges for Verification</h6>
 <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-regression-models.badge?username=SahansaJayawardhana-4867">
 <img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-regression-models.svg"width=55px align="right/>
@@ -99,8 +115,22 @@
 <img src="https://learn.microsoft.com/learn/achievements/create-no-code-predictive-models-with-azure-machine-learning.svg"width=55px align="right />
 </a>
 
-<br><br><br><br><br><br><br><br>
+<br><br>           
  
+<h2> My Acheivements </h2>
+            
+[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
+ <!--
+[![Sahansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=methjaya)](https://github.com/methjaya/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methjaya)](https://github.com/methjaya/github-readme-stats)
+
+-->
+
+
+
+
+
 
 
 
