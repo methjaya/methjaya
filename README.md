@@ -13,7 +13,7 @@
 <a href="mailto:methjaya252@gmail.com">
 <img src="https://img.shields.io/badge/-methjaya252@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:methjaya252@gmail.com" />
 </a>
-<a href="https://dev.to/lahiruroot">
+<a href="https://dev.to/methjaya">
 <img src="https://img.shields.io/badge/DEV.to-methjaya-black" />
 </a>
 <a href="https://github.com/methjaya">
