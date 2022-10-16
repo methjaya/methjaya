@@ -21,6 +21,28 @@
 </a>
 <div/>                    
 <hr>
+
+<h2 aling="left">
+ My Skills       
+<h2/>          
+       
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-yellow?style=flat-square&logo=css)
+![Figma](https://img.shields.io/badge/-FIGMA-blueviolet?style=flat-square&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=Photoshop)
+
+
+
+<h2> My Acheivements </h2>
+<br><br><br><br><br><br><br><br>           
+[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
+
+
+
             
 
 <h2 aling="left">
@@ -80,26 +102,5 @@
 <br><br><br><br><br><br><br><br>
  
 
-
-
-
-<h2 aling="left">
- My Skills       
-<h2/>          
-       
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-yellow?style=flat-square&logo=css)
-![Figma](https://img.shields.io/badge/-FIGMA-blueviolet?style=flat-square&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=Photoshop)
-
-
-
-<h2> My Acheivements </h2>
-<br><br><br><br><br><br><br><br>           
-[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
 
 
