@@ -36,7 +36,9 @@
     />
   </a>
 </p> -->
-                       
+<h2> My Acheivements </h2>
+            
+[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)                      
 ### My Skills : <br/>
             
             
@@ -117,9 +119,7 @@
 
 <br><br>           
 <hr>
-<h2> My Acheivements </h2>
-            
-[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)
+
  <!--
 [![Sahansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=methjaya)](https://github.com/methjaya/github-readme-stats)
   
