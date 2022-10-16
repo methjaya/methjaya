@@ -63,6 +63,7 @@
 ![Figma](https://img.shields.io/badge/-FIGMA-blueviolet?style=flat-square&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=Photoshop)
 
+<!---
 <h2 aling="left">
             My Badges          
 <h2/><h6>click on Badges for Verification</h6>
@@ -129,7 +130,7 @@
 -->
 
 
-
+--->
 
 
 
