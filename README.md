@@ -110,12 +110,13 @@
                  
 <h2/><h6>click on Trophies for Verification</h6>
                        
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-machine-learn-models.trophy?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/create-machine-learning-models.svg" width=55px align="right/>
-</a>
+
 <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-no-code-predictive-models-with-azure-machine-learning.trophy?username=SahansaJayawardhana-4867">
 <img src="https://learn.microsoft.com/learn/achievements/create-no-code-predictive-models-with-azure-machine-learning.svg"width=55px align="right />
 </a>
+<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-machine-learn-models.trophy?username=SahansaJayawardhana-4867">
+<img src="https://learn.microsoft.com/learn/achievements/create-machine-learning-models.svg" width=55px align="right/>
+</a>                                                                                                                                            
 
 <br><br>           
 <hr>
