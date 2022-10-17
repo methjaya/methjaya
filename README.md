@@ -1,138 +1,25 @@
+# 💫 About Me:
+Software Engineering Undergraduate of Plymouth University
 
 
-<div>
-            <h1 align="left">Hi 👋,  I'm Sahansa Jayawardhana</h1>
-            
-<h2 aling="left">
-            My Social links
-            <br>
-<h2/>
-   <a href="https://www.linkedin.com/in/sahansajay/">
-  <img src="https://img.shields.io/badge/-Sahansa_Jayawardhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahansajay" />
-</a>
-<a href="mailto:methjaya252@gmail.com">
-<img src="https://img.shields.io/badge/-methjaya252@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:methjaya252@gmail.com" />
-</a>
-<a href="https://dev.to/methjaya">
-<img src="https://img.shields.io/badge/DEV.to-methjaya-black" />
-</a>
-<a href="https://github.com/methjaya">
-  <img src="https://img.shields.io/github/followers/methjaya?label=Follow&style=social" />
-</a>
-<div/>                    
-<hr>
-<!-- <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruroot&layout=compact&exclude_repo=PingMeRN"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=lahiruroot&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p> -->
-<h2> My Acheivements </h2>
-            
-[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya)                      
-### My Skills : <br/>
-            
-            
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seasonsixty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahansajay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahansajay) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=methjaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=methjaya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=methjaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=methjaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=methjaya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/methjaya) 
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-
-            
-
-<!--- 
-![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
---->
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-yellow?style=flat-square&logo=css)
-![Figma](https://img.shields.io/badge/-FIGMA-blueviolet?style=flat-square&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=Photoshop)
-
-<!---
-<h2 aling="left">
-            My Badges          
-<h2/><h6>click on Badges for Verification</h6>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-regression-models.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-regression-models.svg"width=55px align="right/>
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-analyze-data-with-python.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/explore-and-analyze-data-with-python.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-classification-models.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-classification-models.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-cluster-models.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-clustering-models.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-deep-learn-models.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/train-and-evaluate-deep-learning-models.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.use-automated-machine-learning.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/use-automated-machine-learning.svg"width=55px align="right />
-</a>
-
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-regression-model-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/create-regression-model-azure-machine-learning-designer.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-classification-model-with-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/create-classification-model-azure-machine-learning-designer.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-classification-model-with-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/create-classification-model-azure-machine-learning-designer.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-clustering-model-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/create-clustering-model-azure-machine-learning-designer.svg" width=55px align="right/>
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-clustering-model-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/create-clustering-model-azure-machine-learning-designer.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.intro-to-azure-machine-learning-service.badge?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge.svg"width=55px align="right />
-</a>
-
-
-
-<h2 aling="left">
-                 
-<h2/><h6>click on Trophies for Verification</h6>
-                       
-
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-no-code-predictive-models-with-azure-machine-learning.trophy?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/create-no-code-predictive-models-with-azure-machine-learning.svg"width=55px align="right />
-</a>
-<a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-machine-learn-models.trophy?username=SahansaJayawardhana-4867">
-<img src="https://learn.microsoft.com/learn/achievements/create-machine-learning-models.svg" width=55px align="right/>
-</a>                                                                                                                                            
-
-<br><br>           
-<hr>
-
- <!--
-[![Sahansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=methjaya)](https://github.com/methjaya/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methjaya)](https://github.com/methjaya/github-readme-stats)
-
--->
-
-
---->
-
-
-
-
-
