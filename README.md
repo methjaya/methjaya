@@ -40,6 +40,13 @@
 <a href = "https://www.instagram.com/seasonsixty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
+
+## 🏆 My Acheivemetns       
+[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya) 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=methjaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <p align="center">
     <a href="https://github.com/methjaya/github-readme-streak-stats">
         <img title="🔥 You are watching Meth Jaya's stats" alt="methjaya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=methjaya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -48,12 +55,10 @@
 
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=methjaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 🏆 My Acheivemetns       
-[![@methjaya's Holopin board](https://holopin.io/api/user/board?user=methjaya)](https://www.holopin.io/@methjaya) 
+
+
 ## 📊 My Github Stats
 
   <br/>
