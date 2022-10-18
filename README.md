@@ -59,6 +59,16 @@
     <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.automate-model-selection-with-azure-automl.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/automate-model-selection-with-azure-automl-badge.svg"/> </a>
     <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.tune-hyperparameters-with-azure-machine-learning.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/tune-hyperparameters-with-azure-machine-learning.svg"/> </a>
     <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.deploy-batch-inference-pipelines-with-azure-machine-learning.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning.svg"/> </a>
+    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.register-and-deploy-model-with-amls.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/register-and-deploy-model-with-amls-badge.svg"/> </a>
+    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-pipelines-in-aml.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/create-pipelines-in-aml-badge.svg"/> </a>
+    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.use-compute-contexts-in-aml.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/use-compute-contexts-in-aml-badge.svg"/> </a>
+    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.work-with-data-in-aml.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/work-with-data-in-aml-badge.svg"/> </a>
+    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.train-local-model-with-azure-mls.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/train-local-model-with-azure-mls-badge.svg"/> </a>
+    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.train-local-model-with-azure-mls.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/intro-to-azure-machine-learning-service-badge.svg"/> </a>
+    
+    
+    
+    
    
     
     
