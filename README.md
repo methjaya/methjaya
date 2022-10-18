@@ -46,49 +46,6 @@
     </a>
 </p>
 
-## 🚀 Earned badges
-
-<p align="left"> 
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.build-ai-solutions-with-azure-ml-service.trophy?username=SahansaJayawardhana-4867" target="_blank"> <img src="https://ci6.googleusercontent.com/proxy/6P5ybr4xrwa5WtkLKIimHsfekvbFXkxnqrwKQUPWHcVYCRzg6sFZTRkjRDc8jlmf5H2KII4cPxMl82g556eawOfoPVm_IKHL0nIxHxOjhEnuiLnC_-hayiesAs7bvifvbKb_gRuK-M1QOpiV6onk1nLmB4Zzw-TTyQ=s0-d-e1-ft#https://image.email.microsoftemail.com/lib/feed1d7871600d/m/2/5c6a5c2f-08d1-431a-ae4a-8bc4692f1c1d.png width="100px height=100px""/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.monitor-data-drift-with-azure-machine-learning.badge?username=SahansaJayawardhana-4867" target="_blank"> <img src="https://learn.microsoft.com/learn/achievements/monitor-data-drift-with-azure-machine-learning.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.azure.azure-machine-learning-security.badge?username=SahansaJayawardhana-4867" target="_blank"> <img src="https://learn.microsoft.com/en-us/training/achievements/15-explore-security-concepts-in-azure-machine-learning.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.monitor-models-with-azure-machine-learning.badge?username=SahansaJayawardhana-4867" target="_blank"> <img src="https://learn.microsoft.com/en-us/training/achievements/monitor-models-with-azure-machine-learning.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.detect-mitigate-unfairness-models-with-azure-machine-learning.badge?username=SahansaJayawardhana-4867" target="_blank"> <img src="https://learn.microsoft.com/en-us/training/achievements/detect-and-mitigate-unfairness-in-models-with-azure-machine-learning.svg"/> </a>   
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explain-machine-learning-models-with-azure-machine-learning.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/explain-machine-learning-models-with-azure-machine-learning.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-differential-privacy.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/explore-differential-privacy.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.automate-model-selection-with-azure-automl.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/automate-model-selection-with-azure-automl-badge.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.tune-hyperparameters-with-azure-machine-learning.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/tune-hyperparameters-with-azure-machine-learning.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.deploy-batch-inference-pipelines-with-azure-machine-learning.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.register-and-deploy-model-with-amls.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/register-and-deploy-model-with-amls-badge.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-pipelines-in-aml.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/create-pipelines-in-aml-badge.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.use-compute-contexts-in-aml.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/use-compute-contexts-in-aml-badge.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.work-with-data-in-aml.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/work-with-data-in-aml-badge.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.train-local-model-with-azure-mls.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/train-local-model-with-azure-mls-badge.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.data-ai.train-local-model-with-azure-mls.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/intro-to-azure-machine-learning-service-badge.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-clustering-model-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/create-clustering-model-azure-machine-learning-designer.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.create-regression-model-azure-machine-learning-designer.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/create-regression-model-azure-machine-learning-designer.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.use-automated-machine-learning.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/use-automated-machine-learning.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-deep-learn-models.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-deep-learning-models.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-cluster-models.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-clustering-models.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-analyze-data-with-python.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/explore-and-analyze-data-with-python.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-regression-models.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-regression-models.svg"/> </a>
-    <a href="https://learn.microsoft.com/en-us/training/achievements/learn.wwl.train-evaluate-classification-models.badge?username=SahansaJayawardhana-4867"> <img src="https://learn.microsoft.com/en-us/training/achievements/train-and-evaluate-classification-models.svg"/> </a>
-    
-    
-    
-    
-    
-   
-    
-    
-     
-   
-    
-
-
-
-
-
 </p>
 
 ## 🏆 GitHub Trophies
