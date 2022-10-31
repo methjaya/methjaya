@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://iili.io/b1x5I1.md.png" alt="sahansa.png" width=400 height=400 border="0"><br>
+<p align="center"> <img src="https://iili.io/b1x5I1.md.png" alt="sahansa.png" width=400 height=400 border="0"><br> </p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahansa Jayawardhana</h1>
