@@ -1,7 +1,7 @@
-<a aligh="center" href="#"><img width="1000" height="250" src="https://i.imgur.com/iXuL1HG.png"/></a>
+<p align="center">
+  <img src="https://iili.io/b1x5I1.md.png" alt="sahansa.png" width=400 height=400 border="0"><br>
 
 
-<!--https://i.imgur.com/iXuL1HG.png-->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahansa Jayawardhana</h1>
 <h3 align="center">I'm a passionate Software engineering undergraduate</h3>
 
