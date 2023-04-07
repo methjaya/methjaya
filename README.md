@@ -18,7 +18,9 @@
 - 📫 Reach me @**methjaya252@gmail.com**
 
 ## 🚀 Languages and Tools:
-<!-- to get more icons visit https://icons8.com/icons/set/dart-- there are some steps when adding an icon. First get the link and try pasting . If the size is too long paste this link https://img.icons8.com/color/48/000000/  and at the end type the name of the software/language with .png you want to add. For an example, let's say flutter. https://img.icons8.com/color/48/000000/flutter.png -->
+<!-- to get more icons visit https://icons8.com/icons/set/dart-- there are some steps when adding an icon.
+ First get the link and try pasting . If the size is too long paste this link https://img.icons8.com/color/48/000000/ 
+ and at the end type the name of the software/language with .png you want to add. For an example, let's say flutter. https://img.icons8.com/color/48/000000/flutter.png -->
 <p align="left"> 
     <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
