@@ -53,7 +53,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=methjaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-    <a href="https://github.com/methjaya/github-readme-streak-stats">
+    <a href="#">
         <img title="🔥 You are watching Meth Jaya's stats" alt="methjaya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=methjaya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
