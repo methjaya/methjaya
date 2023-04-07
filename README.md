@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently following Bachelor's of Software Engineering at **[Plymouth University](https://www.plymouth.ac.uk/)** , United Kingdom 🇬🇧
 
-- 🚀 I'm engaged in **CROSS-PLATFORM Mobile Application** Development using **FLUTTER-DART** .
-- 
+- 🚀 I'm engaged in **CROSS-PLATFORM Mobile Application** Development using **FLUTTER-DART** 
+
 - 🌱 Learning **FLUTTER & DART , Python, JAVA**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
